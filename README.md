@@ -39,19 +39,19 @@ I enjoy solving real-world technical problems, documenting solutions, monitoring
     <td align="center">
       <h3>🌐 Networking</h3>
       <img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" />
-      <p>OSI, TCP/IP, Subnetting, VLAN, Routing, Switching, OLT, DHCP, DNS, NAT, VPN</p>
+      <p>OSI, TCP/IP, Subnetting, VLAN, Routing, Switching, OLT, OSPF, DHCP, DNS, NAT, VPN</p>
     </td>
     <td align="center">
       <h3>⚙️ Systems & Support</h3>
       <img src="https://skillicons.dev/icons?i=windows,linux,git&theme=dark" />
-      <p>Windows Support, Linux Basics, Hardware Troubleshooting, IT Support</p>
+      <p>Windows Support, Linux Basics, Hardware Troubleshooting, IT Support , Cloud Support</p>
     </td>
   </tr>
   <tr>
     <td align="center">
       <h3>🔧 Tools</h3>
       <img src="https://skillicons.dev/icons?i=vscode,github,mysql&theme=dark" />
-      <p>Wireshark, Nmap, GNS3, Packet Tracer, Winbox, VMware</p>
+      <p>Wireshark, Nmap, GNS3, Packet Tracer, SolarWinds, Winbox, VMware, Python, IOT, MySQL</p>
     </td>
     <td align="center">
       <h3>🔒 Security</h3>

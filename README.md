@@ -141,24 +141,24 @@ I enjoy solving real-world technical problems, documenting solutions, monitoring
 </ul>
 
 <hr>
-
 <h2 align="center">📫 Contact with Me</h2>
-
 <p align="center">
-  <a href="www.linkedin.com/in/md-mehedi-hasan1396" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/md-mehedi-hasan1396/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
   </a>
-  <a href="mailto:[mehedi.cse2026@gmail.com]" target="_blank">
+  <a href="https://github.com/mehedihasan1396" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+  </a>
+  <a href="https://www.facebook.com/mehedi1396/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" />
+  </a>
+  <a href="mailto:mehedi.cse2026@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/[01314966021]" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://github.com/[mehedihasan1396]" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://wa.me/+8801314966021" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" />
   </a>
 </p>
-
 <hr>
 
 <p align="center">

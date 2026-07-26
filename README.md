@@ -38,7 +38,12 @@ I enjoy solving real-world technical problems, documenting solutions, monitoring
   <tr>
     <td align="center">
       <h3>🌐 Networking</h3>
-      <img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" />
+      <p>
+      <img src=https://cdn-icons-png.flaticon.com/128/8038/8038376.png width="50"/>
+      <img src=https://cdn-icons-png.flaticon.com/128/11892/11892549.png width="50"/>
+      <img src=https://cdn-icons-png.flaticon.com/128/17349/17349599.png width="50"/>
+      <img src=https://symbols.getvecta.com/stencil_240/173_optical-services-router.8d3797afbe.jpg width="50"/>
+      </p>
       <p>OSI, TCP/IP, Subnetting, VLAN, Routing, Switching, OLT, OSPF, DHCP, DNS, NAT, VPN</p>
     </td>
     <td align="center">

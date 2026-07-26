@@ -76,11 +76,15 @@ I enjoy solving real-world technical problems, documenting solutions, monitoring
 <img src=https://cdn-icons-png.flaticon.com/128/17482/17482427.png width="50"/>
 <img src=https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon.png width="50"/>
 </p>
-      <p>Wireshark, Nmap, GNS3, Packet Tracer, SolarWinds, Winbox, VMware, Python, IOT, MySQL</p>
+      <p>Wireshark, Nmap, GNS3, Packet Tracer, SolarWinds, Winbox, VMware, Python, IOT, MySQL, MS-Office</p>
     </td>
     <td align="center">
       <h3>🔒 Security</h3>
-      <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+      <p>
+<img src=https://static.vecteezy.com/system/resources/previews/025/665/106/non_2x/network-security-solid-icon-design-illustration-cyber-security-symbol-on-white-background-eps-10-file-vector.jpg width="50"/>
+<img src=https://thumbs.dreamstime.com/b/troubleshooting-icon-symbol-creative-sign-icons-collection-filled-flat-computer-mobile-illustration-logo-graphics-154895509.jpg width="50"/>
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRCm5gAtTvQWfsR4NHMFFOJDNCQWfDD15WOsdPju6MEQ&s=10 width="50"/>
+</p>
       <p>Firewall, Network Security Fundamentals, Secure Troubleshooting</p>
     </td>
   </tr>

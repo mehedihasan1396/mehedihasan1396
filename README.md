@@ -109,11 +109,13 @@ I enjoy solving real-world technical problems, documenting solutions, monitoring
   <b>Cyber Security & Ethical Hacking Training</b><br/>
   <b>Network Support Engineer Internship</b>
 </p>
-
 <hr>
-
+## :chart_with_upwards_trend: Current Stats
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mehedihasan1396&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <p/>
 <h2 align="center">📊 GitHub Stats</h2>
-
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehedihasan1396&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&border_radius=10" />
 </div>

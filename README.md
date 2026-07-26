@@ -1,19 +1,10 @@
 <p align="center"><a href="https://ibb.co.com/chcd673v"><img src="https://i.ibb.co.com/RTpW3VbS/mehedi-Picsart-Ai-Image-Enhancer.png" style="width: 1000px;height:300px;"alt="mehedi-Picsart-Ai-Image-Enhancer" border="0"/></a></p>
 <h1 align="center">Hi 👋, I'm Md. Mehedi Hasan</h1>
-<h3 align="center">Network Support Engineer Intern | IT Support Engineer | NOC | MTCNA Certified | CCNA Candidate</h3>
+<h3 align="center">Network Support Engineer | IT Support Engineer | NOC Engineer | MTCNA Certified | CCNA Certified</h3>
 
 <p align="center">
-  <a href="[YOUR_LINKEDIN]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:[YOUR_EMAIL]" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="[YOUR_PORTFOLIO]" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/[YOUR_USERNAME]" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 

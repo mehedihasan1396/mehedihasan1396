@@ -61,12 +61,16 @@ I enjoy solving real-world technical problems, documenting solutions, monitoring
   <tr>
     <td align="center">
       <h3>🔧 Tools</h3>
-      <p>
-      <img src=https://cdn-icons-png.flaticon.com/128/1/1827.png width="35"/>
-      <img src=https://cdn-icons-png.flaticon.com/128/1/1827.png width="40"/>
-      <img src=https://cdn-icons-png.flaticon.com/128/1/1827.png width="24"/>
-      <img src=https://cdn-icons-png.flaticon.com/128/1/1827.png width="24"/>
-      </p>
+<p>
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1kyb-IEoZcjWysgvNd3kqJCPS9ZgwgUta5EoUN4DIndamqE84wVbKz2g&s=10 width="50"/>
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROLCbErvonnO-XqFSWAbFGSuM8z_FO4kWijUwiCXz4eCa6CtlF-eUDaII&s=10 width="50"/>
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvygkXP-NDi1MJ-wTvQVnJokpXQgwPFmZ4yJsz3tq_sA&s=10 width="50"/>
+<img src=https://freesvg.org/img/winbox-mikrotik-icon.png width="50"/>
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXv0skxqsNBALqadYPuT2uOlJCw8qLCMW3oujaBGKmMcp2BOvFN-Jo-WQ&s=10 width="50"/>
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXJyn0K8OE7Y3APf2XEoOmYlBI-yv2EMj52Cdx3AHv5TmSBYdWKWAG580&s=10 width="50"/>
+<img src=https://e1.pngegg.com/pngimages/342/752/png-clipart-macos-app-icons-wireshark-thumbnail.png width="50"/>
+<img src=https://cdn-icons-png.flaticon.com/512/6702/6702322.png width="50"/>
+</p>
       <p>Wireshark, Nmap, GNS3, Packet Tracer, SolarWinds, Winbox, VMware, Python, IOT, MySQL</p>
     </td>
     <td align="center">

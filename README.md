@@ -70,6 +70,7 @@ I enjoy solving real-world technical problems, documenting solutions, monitoring
 <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXJyn0K8OE7Y3APf2XEoOmYlBI-yv2EMj52Cdx3AHv5TmSBYdWKWAG580&s=10 width="50"/>
 <img src=https://e1.pngegg.com/pngimages/342/752/png-clipart-macos-app-icons-wireshark-thumbnail.png width="50"/>
 <img src=https://cdn-icons-png.flaticon.com/512/6702/6702322.png width="50"/>
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpruZQcehL48g4EeKtSjSTcqDixsYDeEdT2xu3tWrsKlLOv1lfKSf84OvW&s=10 width="50"/>
 </p>
       <p>Wireshark, Nmap, GNS3, Packet Tracer, SolarWinds, Winbox, VMware, Python, IOT, MySQL</p>
     </td>

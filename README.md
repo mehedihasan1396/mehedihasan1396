@@ -15,7 +15,7 @@
 <img align="right" alt="networking" width="360" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f6-3d22-48cf-9150-083f1b00d6c9.gif" />
 
 <p align="left">
-I am a Computer Science & Engineering graduate from <b>Daffodil International University</b> with a strong focus on <b>enterprise networking, IT infrastructure, NOC operations, and technical support</b>.
+👋 Hi there! I'm Md. Mehedi Hasan, a Computer Science & Engineering graduate from <b>Daffodil International University</b> with a strong focus on <b>enterprise networking, IT infrastructure, NOC operations, and technical support</b>.
 </p>
 
 <p align="left">
@@ -23,7 +23,7 @@ Currently, I am working as a <b>Network Support Engineer Intern</b>, where I gai
 </p>
 
 <p align="left">
-I have completed <b>MikroTik MTCNA</b> certification and official <b>Cisco CCNA training</b>. I am continuously improving my skills in <b>network security, IT support, Windows/Linux basics, and infrastructure operations</b> to grow as a strong <b>Network Engineer</b> and <b>Professional IT Support Engineer</b>.
+I have completed <b>MikroTik MTCNA</b> certification and official <b>Cisco CCNA training</b> also <b>MikroTik MTCSE + MTCRE training</b>. I am continuously improving my skills in <b>network security, IT support, Windows/Linux basics, and infrastructure operations</b> to grow as a strong <b>Network Engineer</b> and <b>Professional IT Support Engineer</b>.
 </p>
 
 <p align="left">
@@ -39,7 +39,7 @@ I enjoy solving real-world technical problems, documenting solutions, monitoring
     <td align="center">
       <h3>🌐 Networking</h3>
       <img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" />
-      <p>TCP/IP, Subnetting, VLAN, Routing, Switching, DHCP, DNS, NAT, VPN</p>
+      <p>OSI, TCP/IP, Subnetting, VLAN, Routing, Switching, OLT, DHCP, DNS, NAT, VPN</p>
     </td>
     <td align="center">
       <h3>⚙️ Systems & Support</h3>

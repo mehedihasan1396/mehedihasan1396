@@ -114,18 +114,12 @@ I enjoy solving real-world technical problems, documenting solutions, monitoring
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mehedihasan1396&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan1396&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehedihasan1396&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&border_radius=10" />
 
-<p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehedihasan1396&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=00BFFF&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasan1396&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
+</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasan1396&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mehedihasan1396&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 <hr>
 
@@ -135,7 +129,7 @@ I enjoy solving real-world technical problems, documenting solutions, monitoring
   <li><b>network-labs</b> — Cisco Packet Tracer, GNS3, VLAN, OSPF, NAT, ACL labs</li>
   <li><b>mikrotik-notes</b> — RouterOS, firewall, DHCP, NAT, VPN, hotspot notes</li>
   <li><b>ccna-study-notes</b> — subnetting, routing, switching, CCNA concepts</li>
-  <li><b>it-support-playbook</b> — Windows, printer, software, hardware troubleshooting</li>
+  <li><b>it-support-playbook</b> — Windows, printer, CCTV, software, hardware troubleshooting</li>
   <li><b>projects</b> — academic and practical projects with documentation</li>
   <li><b>portfolio</b> — profile, resume, and professional highlights</li>
 </ul>

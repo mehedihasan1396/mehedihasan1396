@@ -145,16 +145,16 @@ I enjoy solving real-world technical problems, documenting solutions, monitoring
 <h2 align="center">📫 Contact with Me</h2>
 
 <p align="center">
-  <a href="[YOUR_LINKEDIN]" target="_blank">
+  <a href="www.linkedin.com/in/md-mehedi-hasan1396" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[YOUR_EMAIL]" target="_blank">
+  <a href="mailto:[mehedi.cse2026@gmail.com]" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/[YOUR_PHONE_WITH_COUNTRY_CODE]" target="_blank">
+  <a href="https://wa.me/[01314966021]" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://github.com/[YOUR_USERNAME]" target="_blank">
+  <a href="https://github.com/[mehedihasan1396]" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>

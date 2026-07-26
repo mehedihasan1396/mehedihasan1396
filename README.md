@@ -153,5 +153,5 @@ I enjoy solving real-world technical problems, documenting solutions, monitoring
 <hr>
 
 <p align="center">
-  <i>Building practical skills in networking, IT support, monitoring, and infrastructure operations.</i>
+  <i><b>Building practical skills in networking, IT support, monitoring, and infrastructure operations.</b></i>
 </p>

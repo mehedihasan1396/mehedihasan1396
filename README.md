@@ -105,6 +105,7 @@ I enjoy solving real-world technical problems, documenting solutions, monitoring
 <p align="center">
   <b>MikroTik Certified Network Associate (MTCNA)</b><br/>
   <b>Cisco CCNA Training Completed</b><br/>
+  <b>MikroTik MTCSE & MTCRE Training Completed</b><br/>
   <b>Cyber Security & Ethical Hacking Training</b><br/>
   <b>Network Support Engineer Internship</b>
 </p>

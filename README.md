@@ -116,11 +116,7 @@ I enjoy solving real-world technical problems, documenting solutions, monitoring
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehedihasan1396&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&border_radius=10" />
-
 </div>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasan1396&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=mehedihasan1396&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
 <hr>
 
 <h2 align="center">📂 Featured Repositories</h2>

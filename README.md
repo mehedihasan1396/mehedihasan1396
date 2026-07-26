@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co.com/Jj6pQnv6/mehedi.png" style="width: 1000px; hight: auto;"/></a>
+<p align="center"><img src="https://i.ibb.co.com/Jj6pQnv6/mehedi.png" style="width: 1000px; hight: 400px;"/></a>
 <h1 align="center">Hi 👋, I'm Md. Mehedi Hasan</h1>
 <h3 align="center">Network Support Engineer Intern | IT Support Engineer | NOC | MTCNA Certified | CCNA Candidate</h3>
 

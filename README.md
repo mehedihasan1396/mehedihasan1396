@@ -48,7 +48,11 @@ I enjoy solving real-world technical problems, documenting solutions, monitoring
     </td>
     <td align="center">
       <h3>⚙️ Systems & Support</h3>
-      <img src="https://skillicons.dev/icons?i=windows,linux,aws,git&theme=dark" />
+      <p>
+      <img src="https://skillicons.dev/icons?i=windows,linux,aws &theme=dark" />
+      <img src=https://cdn-icons-png.flaticon.com/128/11630/11630992.png width="50"/>
+      <img src=https://cdn-icons-png.flaticon.com/128/18954/18954391.png width="50"/>
+      </p>
       <p>Windows Support, Linux Basics, Hardware Troubleshooting, IT Support , Cloud Support</p>
     </td>
   </tr>

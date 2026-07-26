@@ -15,7 +15,7 @@
 <img align="right" alt="networking" width="360" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f6-3d22-48cf-9150-083f1b00d6c9.gif" />
 
 <p align="left">
-👋 Hi there! I'm Md. Mehedi Hasan, a Computer Science & Engineering graduate from <b>Daffodil International University</b> with a strong focus on <b>enterprise networking, IT infrastructure, NOC operations, and technical support</b>.
+👋 Hi there! <b>I'm Md. Mehedi Hasan</b>, a Computer Science & Engineering graduate from <b>Daffodil International University</b> with a strong focus on <b>enterprise networking, IT infrastructure, NOC operations, and technical support</b>.
 </p>
 
 <p align="left">

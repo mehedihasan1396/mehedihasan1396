@@ -64,14 +64,15 @@ I enjoy solving real-world technical problems, documenting solutions, monitoring
 <p>
 <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1kyb-IEoZcjWysgvNd3kqJCPS9ZgwgUta5EoUN4DIndamqE84wVbKz2g&s=10 width="50"/>
 <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROLCbErvonnO-XqFSWAbFGSuM8z_FO4kWijUwiCXz4eCa6CtlF-eUDaII&s=10 width="50"/>
-<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvygkXP-NDi1MJ-wTvQVnJokpXQgwPFmZ4yJsz3tq_sA&s=10 width="50"/>
 <img src=https://freesvg.org/img/winbox-mikrotik-icon.png width="50"/>
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSko06WDcjC3A4j_FfyA4kAyi1qqEgcwUHCrWCeQ5KxCw&s=10 width="50"/>
 <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXv0skxqsNBALqadYPuT2uOlJCw8qLCMW3oujaBGKmMcp2BOvFN-Jo-WQ&s=10 width="50"/>
 <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXJyn0K8OE7Y3APf2XEoOmYlBI-yv2EMj52Cdx3AHv5TmSBYdWKWAG580&s=10 width="50"/>
 <img src=https://e1.pngegg.com/pngimages/342/752/png-clipart-macos-app-icons-wireshark-thumbnail.png width="50"/>
 <img src=https://cdn-icons-png.flaticon.com/512/6702/6702322.png width="50"/>
-<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpruZQcehL48g4EeKtSjSTcqDixsYDeEdT2xu3tWrsKlLOv1lfKSf84OvW&s=10 width="50"/>
 <img src=https://i.pinimg.com/736x/93/6d/6a/936d6adc03927c1e2b386060e222c918.jpg width="50"/>
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpruZQcehL48g4EeKtSjSTcqDixsYDeEdT2xu3tWrsKlLOv1lfKSf84OvW&s=10 width="50"/>
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvygkXP-NDi1MJ-wTvQVnJokpXQgwPFmZ4yJsz3tq_sA&s=10 width="50"/>
 <img src=https://cdn-icons-png.flaticon.com/128/17482/17482427.png width="50"/>
 <img src=https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon.png width="50"/>
 </p>

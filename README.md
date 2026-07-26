@@ -49,7 +49,9 @@ I enjoy solving real-world technical problems, documenting solutions, monitoring
     <td align="center">
       <h3>⚙️ Systems & Support</h3>
       <p>
-      <img src="https://skillicons.dev/icons?i=windows,linux,aws &theme=dark" />
+      <img src=https://cdn-icons-png.flaticon.com/128/906/906308.png width="50"/>
+      <img src=https://cdn-icons-png.flaticon.com/128/15465/15465695.png width="50"/>
+     <img src=https://static.vecteezy.com/system/resources/previews/069/601/818/non_2x/aws-cloud-computing-icon-line-multi-circle-vector.jpg width="50"/>
       <img src=https://cdn-icons-png.flaticon.com/128/11630/11630992.png width="50"/>
       <img src=https://cdn-icons-png.flaticon.com/128/18954/18954391.png width="50"/>
       </p>

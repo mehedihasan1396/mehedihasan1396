@@ -110,7 +110,7 @@ I enjoy solving real-world technical problems, documenting solutions, monitoring
   <b>Network Support Engineer Internship</b>
 </p>
 <hr>
-<h2 align="center">📊 ## :chart_with_upwards_trend: Current Stats</h2>
+<h2 align="center">## :chart_with_upwards_trend: Current Stats</h2>
 <br />
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mehedihasan1396&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />

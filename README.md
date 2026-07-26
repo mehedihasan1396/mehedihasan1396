@@ -43,14 +43,14 @@ I enjoy solving real-world technical problems, documenting solutions, monitoring
     </td>
     <td align="center">
       <h3>⚙️ Systems & Support</h3>
-      <img src="https://skillicons.dev/icons?i=windows,linux,git&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=windows,linux,aws,git&theme=dark" />
       <p>Windows Support, Linux Basics, Hardware Troubleshooting, IT Support , Cloud Support</p>
     </td>
   </tr>
   <tr>
     <td align="center">
       <h3>🔧 Tools</h3>
-      <img src="https://skillicons.dev/icons?i=vscode,github,mysql&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=vscode,gmail,github,mysql&theme=dark" />
       <p>Wireshark, Nmap, GNS3, Packet Tracer, SolarWinds, Winbox, VMware, Python, IOT, MySQL</p>
     </td>
     <td align="center">

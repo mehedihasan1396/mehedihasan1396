@@ -50,7 +50,7 @@ I enjoy solving real-world technical problems, documenting solutions, monitoring
   <tr>
     <td align="center">
       <h3>🔧 Tools</h3>
-      <img src="https://skillicons.dev/icons?i=vscode,gmail,github,mysql&theme=dark" />
+      <img src=https://cdn-icons-png.flaticon.com/128/1/1827.png width="24"/>
       <p>Wireshark, Nmap, GNS3, Packet Tracer, SolarWinds, Winbox, VMware, Python, IOT, MySQL</p>
     </td>
     <td align="center">

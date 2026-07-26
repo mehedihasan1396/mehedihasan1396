@@ -1,4 +1,4 @@
-<p align="center"><a href="https://ibb.co.com/chcd673v"><img src="https://i.ibb.co.com/RTpW3VbS/mehedi-Picsart-Ai-Image-Enhancer.png" style="width: 1000px;hight:50px;"alt="mehedi-Picsart-Ai-Image-Enhancer" border="0"/></a></p>
+<p align="center"><a href="https://ibb.co.com/chcd673v"><img src="https://i.ibb.co.com/RTpW3VbS/mehedi-Picsart-Ai-Image-Enhancer.png" style="width: 1000px;height:300px;"alt="mehedi-Picsart-Ai-Image-Enhancer" border="0"/></a></p>
 <h1 align="center">Hi 👋, I'm Md. Mehedi Hasan</h1>
 <h3 align="center">Network Support Engineer Intern | IT Support Engineer | NOC | MTCNA Certified | CCNA Candidate</h3>
 

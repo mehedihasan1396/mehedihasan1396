@@ -115,16 +115,16 @@ I enjoy solving real-world technical problems, documenting solutions, monitoring
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mehedihasan1396&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan1396&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=00BFFF&area=true&hide_border=true" />
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehedihasan1396&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=00BFFF&area=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasan1396&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
 <hr>

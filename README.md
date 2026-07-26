@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/Jj6pQnv6/mehedi.png" />
+<p align="center"><img src="https://i.ibb.co.com/Jj6pQnv6/mehedi.png" /></a>
 
 <h3 align="center">Network Support Engineer Intern | IT Support Engineer | NOC | MTCNA Certified | CCNA Candidate</h3>
 
